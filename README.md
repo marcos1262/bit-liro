@@ -1,6 +1,7 @@
 # BitLiro
 
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+<img src="https://img.shields.io/badge/Code%20coverage-87%20%25-blue.svg">
 
 > An iOS app that lists Crypto coins Exchanges and shows its details, with loading state and error handling. 
 
