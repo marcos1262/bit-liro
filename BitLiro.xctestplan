@@ -1,0 +1,46 @@
+{
+  "configurations" : [
+    {
+      "id" : "3DE7C0D3-A1A2-4D24-800B-456B96874C0F",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : {
+      "targets" : [
+        {
+          "containerPath" : "container:BitLiro.xcodeproj",
+          "identifier" : "8D21C6072B65D2B20065030E",
+          "name" : "BitLiro"
+        }
+      ]
+    },
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:BitLiro.xcodeproj",
+      "identifier" : "8D21C6072B65D2B20065030E",
+      "name" : "BitLiro"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:BitLiro.xcodeproj",
+        "identifier" : "8D21C61D2B65D2B60065030E",
+        "name" : "BitLiroTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:BitLiro.xcodeproj",
+        "identifier" : "8D21C6272B65D2B60065030E",
+        "name" : "BitLiroUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

@@ -1,0 +1,7 @@
+"listSceneTitle" = "BitLiro Corretoras";
+"detailSceneTitle" = "Detalhes da corretora";
+"nameTitle" = "Nome";
+"idTitle" = "ID da Corretora";
+"volumeTitle" = "Volume Diário";
+"errorMessage" = "Houve um problema e sua solicitação não pôde ser concluída. Por favor, tente novamente.";
+"tryAgain" = "Tentar novamente";

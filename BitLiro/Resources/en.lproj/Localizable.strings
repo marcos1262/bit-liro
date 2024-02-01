@@ -1,0 +1,7 @@
+"listSceneTitle" = "BitLiro Exchanges";
+"detailSceneTitle" = "Exchange Detail";
+"nameTitle" = "Name";
+"idTitle" = "Exchange ID";
+"volumeTitle" = "Daily Volume";
+"errorMessage" = "There was a problem and your request could not be completed. Please, retry again.";
+"tryAgain" = "Retry";
