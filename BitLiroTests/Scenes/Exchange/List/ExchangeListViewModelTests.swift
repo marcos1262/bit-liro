@@ -3,8 +3,6 @@ import Nimble
 import RxSwift
 import RxCocoa
 import UIKit
-import RxTest
-import RxNimble
 
 @testable import BitLiro
 
